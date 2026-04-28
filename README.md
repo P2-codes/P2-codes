@@ -11,9 +11,8 @@ An Aspiring Software engineer studying @ nmu
 💻 Tech Stack :
 
 
-⚡ Fun fact: 
+⚡ Fun fact: I love going to the gym , calisthenics and hiking 
  
-- I'm 
 
 
 Let's Collaborate and Continue to build meaningful projects 🚀!
