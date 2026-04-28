@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi , I'm Phathutshedzo👨🏾‍💻
 
-I'm Phathutshedzo, an Aspiring Software engineer studying @ nmu
+## An Aspiring Software engineer studying @ nmu
 
  🔭 I’m currently working on:
 
@@ -8,5 +8,13 @@ I'm Phathutshedzo, an Aspiring Software engineer studying @ nmu
 - Exploring new IT updates to further solidify my presence in the industry
 - Building real world projects and provide Software solutions
  
-  ⚡ Fun fact: 
+ ## 💻 Tech Stack :
+
+
+ ## ⚡ Fun fact: 
+ 
+- I'm 
+
+
+Let's Collaborate and Continue to build meaningful projects 🚀!
 
