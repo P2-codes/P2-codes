@@ -14,7 +14,7 @@ An Aspiring Software engineer studying @ nmu
 
 ⚡ Fun fact: 
 
--I love going to the gym , calisthenics and hiking 
+- I love going to the gym , calisthenics and hiking 
  
 
 
