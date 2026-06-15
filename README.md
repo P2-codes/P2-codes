@@ -1,14 +1,20 @@
-<h1 align="center"> Full-stack developer👨🏾‍💻</h1>
+<h1 align="center">Phathutshedzo ~ Full-stack developer👨🏾‍💻</h1>
+<br>
 
+<h4 align="center">
+  <em><span style="font-family: 'Courier New', monospace;">IF (STATUS != ONLINE)</span></em>
+</h4>
 
+<h4 align="center">
+  <em><span style="font-family: 'Courier New', monospace;">ELSE (DEBUGGING)</span></em>
+</h4>
+ <p align="center">
+  <img src="images/pfp.jpg" alt="Project Screenshot" width="550" height="400">
+</p>
+<br>
 
- 🔭 I’m currently working on:
-
-- A journey of learning the MERN stack development
-- Exploring new IT updates to further solidify my presence in the industry
-- Building real world projects and provide Software solutions
- 
-💻 Tech Stack :
+<h2 align="center">💻 Tech Stack:</h2>
+<br>
 
  <h3 align="center">Programming languages:</h3>
  
@@ -29,9 +35,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
+<br>
  <h3 align="center">Front-end stack:</h3>
- 
+ <br>
  <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -53,9 +59,9 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br>
  <h3 align="center">Back-end stack:</h3>
- 
+ <br>
  <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -73,14 +79,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br>
  <h3 align="center">Database:</h3>
-
+<br>
  <p align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-
+<br>
 <h3 align="center">Cloud & DevOps :</h3>
-
+<br>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
