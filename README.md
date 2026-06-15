@@ -4,11 +4,11 @@
 <br>
 
 <h4 align="center">
-  <em><span style="font-family: 'Courier New', monospace;">IF (STATUS != OFFLINE) {CODING}</span></em>
+  <em><span style="font-family: 'Courier New', monospace;">IF (STATUS != OFFLINE)&nbsp; {CODING}</span></em>
 </h4>
 
 <h4 align="center">
-  <em><span style="font-family: 'Courier New', monospace;">ELSE {DEBUGGING}</span></em>
+  <em><span style="font-family: 'Courier New', monospace;">ELSE&nbsp; {DEBUGGING}</span></em>
 </h4>
  <p align="center">
   <img src="images/pfp.jpg" alt="Project Screenshot" width="550" height="400">
