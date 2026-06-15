@@ -1,4 +1,6 @@
-<h1 align="center">Phathutshedzo ~ Full-stack developer👨🏾‍💻</h1>
+<h1 align="center">
+  <font color="blue">[Phathutshedzo] ~ Full-stack developer👨🏾‍💻</font>
+</h1>
 <br>
 
 <h4 align="center">
@@ -13,7 +15,7 @@
 </p>
 <br>
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h2 align="center" font-color="blue">💻 Tech Stack:</h2>
 <br>
 
  <h3 align="center">Programming languages:</h3>
