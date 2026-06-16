@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font color="blue"><strong>[Phathutshedzo]</strong>~ Full-stack developer👨🏾‍💻</font>
+  <font color="blue"><strong>[ Phathutshedzo ]</strong>~ Full-stack developer👨🏾‍💻</font>
 </h1>
 <br>
 
@@ -135,7 +135,7 @@
 </p>
 <hr>
 <br>
-<h2 align="center"><strong>[ Stay in touch with me: ]</strong></h2>
+<h2 align="center"><strong>[ Stay in touch with me :) ]</strong></h2>
 <br>
 <p align="center">
 <a href="https://dev.to/@p2codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@p2codes" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
