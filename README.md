@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font color="blue">[Phathutshedzo] ~ Full-stack developer👨🏾‍💻</font>
+  <font color="blue"><strong>[Phathutshedzo]</strong>~ Full-stack developer👨🏾‍💻</font>
 </h1>
 <br>
 
@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <h4 align="left">Front-end stack:</h4>
 
 <p align="center">
@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
+ <hr>
 <h4 align="left">Back-end stack:</h4>
 
 <p align="center">
@@ -81,7 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
 </p>
-
+ <hr>
 <h4 align="left">Database:</h4>
 
 <p align="center">
@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <h4 align="left">Mobile Development:</h4>
 
 <p align="center">
@@ -109,7 +109,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <h4 align="left">Cloud & DevOps:</h4>
 
 <p align="center">
