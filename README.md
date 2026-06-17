@@ -1,7 +1,7 @@
 <h1 align="center">
   <font color="blue"><strong>[ Phathutshedzo ]</strong>~ Full-stack developer👨🏾‍💻</font>
 </h1>
-<br>
+
 
 <h6 align="center">
   <em><span style="font-family: 'Courier New', monospace;">IF (STATUS != OFFLINE)&nbsp; {CODING}</span></em>
@@ -13,10 +13,10 @@
  <p align="center">
   <img src="images/pfp.jpg" alt="Project Screenshot" width="550" height="400">
 </p>
-<br>
+
 
 <h2 align="center"><strong>[ 💻 Tech Stack: ]</strong></h2>
-<br>
+
 
  <h4 align="left">Programming languages:</h4>
 
@@ -136,7 +136,7 @@
 <hr>
 <br>
 <h2 align="center"><strong>[ Stay in touch with me ]</strong></h2>
-<br>
+
 <p align="center">
   <a href="https://dev.to/p2codes">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
