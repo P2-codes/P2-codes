@@ -134,7 +134,7 @@
   </a>
 </p>
 <hr>
-<br>
+
 <h2 align="center"><strong>[ Stay in touch with me ]</strong></h2>
 
 <p align="center">
