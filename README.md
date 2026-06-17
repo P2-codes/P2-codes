@@ -135,20 +135,22 @@
 </p>
 <hr>
 <br>
-<h2 align="center"><strong>[ Stay in touch with me :) ]</strong></h2>
+<h2 align="center"><strong>[ Stay in touch with me ]</strong></h2>
 <br>
 <p align="center">
- <a href="https://dev.to/@p2codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@p2codes" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/p2codes">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
 
-  <a href="https://twitter.com/@rmfc_slime" target="_blank">
+  <a href="https://twitter.com/rmfc_slime">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
-  <a href="https://linkedin.com/in/phathutshedzo" target="_blank">
+  <a href="https://linkedin.com/in/phathutshedzo">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
-  <a href="https://instagram.com/phathu_mutamba" target="_blank">
+  <a href="https://instagram.com/phathu_mutamba">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
